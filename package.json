@@ -1,0 +1,15 @@
+{
+  "name": "sticker-bot",
+  "version": "1.0.0",
+  "description": "My Node.js bot for Sticker to image in telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gm": "^1.25.0",
+    "https": "^1.0.0",
+    "telegraf": "^4.12.2"
+  }
+}
