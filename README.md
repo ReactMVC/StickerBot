@@ -1,5 +1,5 @@
 # StickerBot
-Sticker to image telegram bot
+Sticker to Image Converter Bot for Telegram
 
 install all packages:
 ```
