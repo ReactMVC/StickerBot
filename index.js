@@ -6,10 +6,6 @@ const https = require('https');
 const botToken = 'BOT_TOKEN';
 const bot = new Telegraf(botToken);
 
-// Replace with your own Telegram API ID and API Hash
-const apiId = 'API_ID';
-const apiHash = 'API_HASH';
-
 // Send welcome message to user
 bot.start((ctx) => {
   ctx.reply('Welcome to the Sticker to Image Converter Bot!');
